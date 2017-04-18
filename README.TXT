@@ -1,0 +1,2 @@
+Nefarious screenshots takes a screenshot every 10 seconds from when you activate it onward until the pc stops or 11.5739583333 days pass.
+Just put it in a folder and double click and that folder will fill up with screenshots. One every 10 seconds for 11.5739583333 days.
